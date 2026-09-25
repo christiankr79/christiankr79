@@ -44,7 +44,7 @@ REST API developed in Go for managing and monitoring security events.
  
 ## 📫 Contact
  
-- LinkedIn: (add your LinkedIn URL)
+- LinkedIn: https://www.linkedin.com/in/christian-krmec-49895225a/
 - Location: Friuli Venezia Giulia, Italy 🇮🇹
  
 ## ⚡ Fun Fact
